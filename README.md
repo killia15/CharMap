@@ -17,4 +17,6 @@ Simple JavaScript library using jQuery to render character maps above a textbox 
 
 * Allow for customization of color instead of only light blue.
 
-* Only require lower case of letters on mappings rather than both, and decide during rendering if the character typed was lower or upper case, and then render appropriate case using .toUpperCase() or .toLowerCase() 
+* Only require lower case of letters on mappings rather than both, and decide during rendering if the character typed was lower or upper case, and then render appropriate case using .toUpperCase() or .toLowerCase()
+
+* Close CharMap on key press and revert back to original character.
