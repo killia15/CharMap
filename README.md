@@ -1,4 +1,4 @@
-# Project Title
+# CharMap
 
 Simple JavaScript library using jQuery to render character maps above a textbox when a key is held down.
 
