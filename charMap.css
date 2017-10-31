@@ -1,0 +1,30 @@
+.base {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 999999;
+  width: auto;
+  overflow: visible;
+  border: 1px solid #0081cc;
+  background: #fff;
+  font-size: 18px;
+  line-height: 14px;
+  text-align: center;
+}
+.content {
+  padding: 8px 12px;
+}
+.char-tooltip>span {
+  border: 1px solid #fff;
+  display: inline-block;
+  padding: 0 4px;
+  color: #0081cc;
+  cursor: pointer;
+}
+.char-tooltip .num {
+  color: #999;
+  font-size: 11px;
+}
+.char-tooltip .selected {
+  border: 1px solid #dadada;
+}
