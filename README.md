@@ -2,6 +2,9 @@
 
 Simple JavaScript library using jQuery to render character maps above a textbox when a key is held down.
 
+![Demo Image](https://rawgit.com/killia15/CharMap/master/demo.png)
+
+
 ## Author
 
 * **Seth Killian** - *Initial work*
